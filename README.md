@@ -12,9 +12,9 @@ Download here: http://www.ezgraphics.org/Software/Download
 Place into the same folder as your L-1-AM program, no installation required
 
 # How to use
-Download the Final_Code folder and contents
+1. Download the Final_Code folder and contents
 
-Open the event_time text file
+2. Open the event_time text file
 
 Set the date, month, hour and minutes to your required time
 

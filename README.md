@@ -3,7 +3,7 @@ _Countdown clock for events_
 
 Created this countdown clock for a work friend's son who has SEN and struggles to understand time.  Ingeniously they used a stack of seven Lego bricks to represent a week but, need something more accurate.
 
-#Dependencies
+#Dependencies:
 + Python 3
 + EzGraphics
 + Built to run on a Raspberry Pi 3 
@@ -11,7 +11,7 @@ Created this countdown clock for a work friend's son who has SEN and struggles t
 Download EzGraphics here: http://www.ezgraphics.org/Software/Download
 (Place into the same folder as your L-1-AM program, no installation required)
 
-# How to use
+# How to use:
 1. Download the Final_Code folder and contents
 2. Open the event_time text file
 3. Set the date, month, hour and minutes to your required time

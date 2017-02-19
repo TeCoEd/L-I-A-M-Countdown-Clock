@@ -13,10 +13,15 @@ Place into the same folder as your L-1-AM program, no installation required
 
 # How to use
 Download the Final_Code folder and contents
+
 Open the event_time text file
+
 Set the date, month, hour and minutes to your required time
+
 Open the main LIAM_Clock program and run
+
 The program will display a countdown - updates every minutes
+
 Since the time is calculated in real time you can turn device / computer / Pi off and the time is recalculated next time you power up.
 (Time can be set for a future date, up to 7 days)
 

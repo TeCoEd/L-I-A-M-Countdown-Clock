@@ -3,6 +3,8 @@ _Countdown clock for events_
 
 Created this countdown clock for a work friend's son who has SEN and struggles to understand time.  Ingeniously they used a stack of seven Lego bricks to represent a week but, need something more accurate.
 
+![](images/cdc.png)
+
 #Dependencies:
 + Python 3
 + EzGraphics

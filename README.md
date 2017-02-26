@@ -24,3 +24,5 @@ Download EzGraphics here: http://www.ezgraphics.org/Software/Download
 _(Time can be set for a future date, up to 7 days)_
 
 See the code in action here: https://www.youtube.com/watch?v=9hokFa0RaUY
+Project writeup here: http://www.tecoed.co.uk/l-1-am.html
+
